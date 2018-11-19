@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">VeteriAPP</string>
+    <string name="logo">Logo aplicacion</string>
+
+    <string name="BTiendas">Tiendas</string>
+    <string name="BVeteritanios">Veterinarios</string>
+    <string name="Biniciar">Iniciar</string>
+    <string name="Bbuscar">Buscar</string>
+    <string name="Bpuntuar">Puntuar</string>
+    <string name="Binsertar">Insertar</string>
+    <string name="Bnombre">Nombre</string>
+    <string name="Bpuntuacion">Punticación</string>
+    <string name="Bcerca">Cerca de mí</string>
+
+    <string name="F_Buscar">Que desea buscar?</string>
+    <string name="F_Tipo_B">Tipo de búsqueda:</string>
+</resources>
