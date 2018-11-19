@@ -19,7 +19,8 @@
         <activity android:name=".principal_Activity" />
         <activity android:name=".Buscar_Opcion_Activity" />
         <activity android:name=".Buscar_Opciones_Activity" />
-        <activity android:name=".Buscar_Nombre_Activity"></activity>
+        <activity android:name=".Buscar_Nombre_Activity" />
+        <activity android:name=".Buscar_Puntuacion_Activity"></activity>
     </application>
 
 </manifest>

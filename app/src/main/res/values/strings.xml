@@ -12,6 +12,11 @@
     <string name="Bpuntuacion">Punticación</string>
     <string name="Bcerca">Cerca de mí</string>
 
+
     <string name="F_Buscar">Que desea buscar?</string>
-    <string name="F_Tipo_B">Tipo de búsqueda:</string>
+    <string name="F_Tipo_B">Tipo de búsqueda</string>
+    <string name="F_nombre_B">Introduzca el nombre</string>
+    <string name="F_puntuacion_B">Seleccione puntuación minima</string>
+
+    <string name="H_nombre">NOMBRE</string>
 </resources>
