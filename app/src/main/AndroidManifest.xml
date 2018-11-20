@@ -20,7 +20,9 @@
         <activity android:name=".Buscar_Opcion_Activity" />
         <activity android:name=".Buscar_Opciones_Activity" />
         <activity android:name=".Buscar_Nombre_Activity" />
-        <activity android:name=".Buscar_Puntuacion_Activity"></activity>
+        <activity android:name=".Buscar_Puntuacion_Activity" />
+        <activity android:name=".puntuar_opciones_Activity" />
+        <activity android:name=".contacto_Activity"></activity>
     </application>
 
 </manifest>

@@ -17,6 +17,8 @@
     <string name="F_Tipo_B">Tipo de búsqueda</string>
     <string name="F_nombre_B">Introduzca el nombre</string>
     <string name="F_puntuacion_B">Seleccione puntuación minima</string>
+    <string name="F_puntuar">Que desea puntuar?</string>
+    S
 
     <string name="H_nombre">NOMBRE</string>
 </resources>
