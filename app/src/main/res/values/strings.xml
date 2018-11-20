@@ -11,6 +11,9 @@
     <string name="Bnombre">Nombre</string>
     <string name="Bpuntuacion">Punticación</string>
     <string name="Bcerca">Cerca de mí</string>
+    <string name="Benviar">Enviar</string>
+    <string name="Btienda">Tienda</string>
+    <string name="Bveterinario">Veterinario</string>
 
 
     <string name="F_Buscar">Que desea buscar?</string>
@@ -18,7 +21,30 @@
     <string name="F_nombre_B">Introduzca el nombre</string>
     <string name="F_puntuacion_B">Seleccione puntuación minima</string>
     <string name="F_puntuar">Que desea puntuar?</string>
-    S
+    <string name="F_contacto">Rellene todos los campos por favor</string>
+    <string name="F_insertar">Que desea insertar?</string>
+    <string name="F_insertarTienda">Rellene los datos de la tienda</string>
+    <string name="F_insertarVet">Rellene los datos del veterinario</string>
+    <string name="F_insetarchekbox">Seleccione especialización(puede marcar mas de una)</string>
+    <string name="F_insertarPrecios">Inserte los precios</string>
 
     <string name="H_nombre">NOMBRE</string>
+    <string name="H_correo">Correo electronico</string>
+    <string name="H_contacto">Escriba su consulta</string>
+    <string name="H_Inombre">Nombre</string>
+    <string name="H_Idireccion">Dirección</string>
+    <string name="H_Itelefono">Telefono</string>
+    <string name="H_Iweb">Web</string>
+    <string name="H_Ihorario">Horario</string>
+    <string name="H_IPrecioVN">Visita</string>
+    <string name="H_IPrecioVU">Visista urgencias</string>
+    <string name="H_IPrecioVAC">Vacunar</string>
+    <string name="H_IPrecioCH">Chipar</string>
+    
+    <string name="CB_Domesticos">Domesticos</string>
+    <string name="CB_Exoticos">Exoticos</string>
+    
+    <string name="SW_Peluqueria">Peluqueria</string>
+    <string name="SW_Urgencias">Urgencias 24H</string>
+    
 </resources>

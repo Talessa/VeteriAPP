@@ -22,7 +22,9 @@
         <activity android:name=".Buscar_Nombre_Activity" />
         <activity android:name=".Buscar_Puntuacion_Activity" />
         <activity android:name=".puntuar_opciones_Activity" />
-        <activity android:name=".contacto_Activity"></activity>
+        <activity android:name=".contacto_Activity" />
+        <activity android:name=".Insertar_seleccion_Activity" />
+        <activity android:name=".Insertar_tienda_Activity"></activity>
     </application>
 
 </manifest>

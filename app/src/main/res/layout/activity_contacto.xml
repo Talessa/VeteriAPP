@@ -9,53 +9,57 @@
 
 
     <TextView
-        android:id="@+id/textView"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginTop="52dp"
-        android:text="TextView"
+        android:id="@+id/textContacto"
+        android:layout_width="311dp"
+        android:layout_height="87dp"
+        android:layout_marginTop="28dp"
+        android:gravity="center_vertical|center_horizontal"
+        android:text="@string/F_contacto"
+        android:textSize="30sp"
+        android:textStyle="bold"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
     <EditText
-        android:id="@+id/editText"
-        android:layout_width="wrap_content"
+        android:id="@+id/CorreoUsusario"
+        android:layout_width="293dp"
         android:layout_height="wrap_content"
-        android:layout_marginTop="8dp"
+        android:layout_marginTop="28dp"
         android:ems="10"
+        android:hint="@string/H_correo"
         android:inputType="textEmailAddress"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/textView" />
+        app:layout_constraintTop_toBottomOf="@+id/textContacto" />
 
     <EditText
-        android:id="@+id/editText3"
+        android:id="@+id/ConsultaUsusario"
         android:layout_width="283dp"
-        android:layout_height="87dp"
-        android:layout_marginTop="44dp"
+        android:layout_height="66dp"
+        android:layout_marginTop="20dp"
         android:background="@color/colorfondo"
         android:ems="10"
+        android:hint="@string/H_contacto"
         android:inputType="textMultiLine"
-        android:scrollbars="vertical"
         android:longClickable="true"
+        android:scrollbars="vertical"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintHorizontal_bias="0.455"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/editText" />
+        app:layout_constraintTop_toBottomOf="@+id/CorreoUsusario" />
 
     <Button
-        android:id="@+id/button"
+        android:id="@+id/Cenviar"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="8dp"
         android:layout_marginBottom="8dp"
-        android:text="Button"
+        android:text="@string/Benviar"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/editText3"
-        app:layout_constraintVertical_bias="0.234" />
+        app:layout_constraintTop_toBottomOf="@+id/ConsultaUsusario"
+        app:layout_constraintVertical_bias="0.703" />
 
 </android.support.constraint.ConstraintLayout>
